@@ -1,0 +1,5 @@
+{
+    "notebook.lineNumbers": "on",
+    "vim.smartRelativeLine": false,
+    "editor.lineNumbers": "relative"
+}
